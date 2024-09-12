@@ -25,17 +25,19 @@ To get started with the Travel Tracker App locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/travel-tracker-app.git
+   git clone https://github.com/Bmack1915/travel-tracker-app.git
 
 2. Navigate to Project Directory
-
+    ```bash
    cd travel-tracker-app
    
 3. Install Dependencies with
-   
+    ```bash
    npm install
 
 4. Start the Development Server
+
+    ```bash
    npm run dev
 
 5. Click the URL provided
